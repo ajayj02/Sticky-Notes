@@ -1,0 +1,25 @@
+/* 
+.input-box{  
+    width: 300px;
+    align-items: center;
+
+} */
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 32px;
+  font-weight: 800;
+  text-align: center;
+  background-color: burlywood;
+  border-radius: 2px;
+  height: 60px;
+  padding-top: 10px;
+}
+
+.card-components {
+  align-items: center;
+}
